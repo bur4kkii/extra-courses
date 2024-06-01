@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "b00e3d6b3e5ee614",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e2ca0c2e8e101e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "612080981852daf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Qualidade de software/Compliance e Quality Assurance/Cap 4 - Elaboração de Testes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d201031d71a52aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5cdba4ebfcd9f5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f21834aa8247faab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47e20dcca4dcb83e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d6f848f9b3fb7f3f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "02c3aaf7f03e8436",
+    "type": "split",
+    "children": [
+      {
+        "id": "454092123d223e18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8c5e9e02b65e8f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Qualidade de software/Compliance e Quality Assurance/Cap 4 - Elaboração de Testes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9d48cb8f13868f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Qualidade de software/Compliance e Quality Assurance/Cap 4 - Elaboração de Testes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "885acb0cdcdc1068",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "73512961d19f45d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Qualidade de software/Compliance e Quality Assurance/Cap 4 - Elaboração de Testes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "612080981852daf8",
+  "lastOpenFiles": [
+    "Qualidade de software/Compliance e Quality Assurance/Cap 3 - Testes de Software.md",
+    "Qualidade de software/Compliance e Quality Assurance/Cap 4 - Elaboração de Testes.md",
+    "Qualidade de software/Compliance e Quality Assurance/Cap 5 - Automação de Testes.md",
+    "Pasted image 20240601022356.png",
+    "Pasted image 20240601022347.png",
+    "Pasted image 20240601021559.png",
+    "Pasted image 20240601021548.png",
+    "Qualidade de software/Compliance e Quality Assurance/Compliance e Quality Assurance.md",
+    "Qualidade de software/Compliance e Quality Assurance/imgs/Pasted image 20240531235623.png",
+    "Qualidade de software/Compliance e Quality Assurance/imgs/Pasted image 20240601003626.png",
+    "Qualidade de software/Compliance e Quality Assurance/imgs/Pasted image 20240601013356.png",
+    "Qualidade de software/Compliance e Quality Assurance/imgs/Pasted image 20240601015043.png",
+    "Pasted image 20240601013335.png",
+    "Qualidade de software/Compliance e Quality Assurance/imgs/Pasted image 20240601003342.png"
+  ]
+}

@@ -1,0 +1,2 @@
+- Sempre vai existir um cliente e um servidor
+- 

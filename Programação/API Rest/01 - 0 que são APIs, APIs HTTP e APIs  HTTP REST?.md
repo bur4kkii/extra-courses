@@ -1,0 +1,3 @@
+- API -> Application Programming Interface, uma interface que viabiliza a utilização de um programa por outro
+- HTTP -> protocolo de internet utilizado para disponibilização da API
+- 

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "612080981852daf8",
+            "id": "ceb58d48c5d1f689",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Qualidade de software/Compliance e Quality Assurance/Cap 4 - Elaboração de Testes.md",
+                "file": "Programação/API Rest/02 - Comunicação HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "02c3aaf7f03e8436",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qualidade de software/Compliance e Quality Assurance/Cap 4 - Elaboração de Testes.md",
+                "file": "Programação/API Rest/02 - Comunicação HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Qualidade de software/Compliance e Quality Assurance/Cap 4 - Elaboração de Testes.md",
+                "file": "Programação/API Rest/02 - Comunicação HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Qualidade de software/Compliance e Quality Assurance/Cap 4 - Elaboração de Testes.md"
+                "file": "Programação/API Rest/02 - Comunicação HTTP.md"
               }
             }
           }
@@ -146,16 +147,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f21834aa8247faab",
+  "active": "ceb58d48c5d1f689",
   "lastOpenFiles": [
-    "Qualidade de software/Compliance e Quality Assurance/Cap 3 - Testes de Software.md",
+    "Programação/API Rest/API Rest.md",
+    "Programação/API Rest/02 - Comunicação HTTP.md",
+    "Programação/API Rest/01 - 0 que são APIs, APIs HTTP e APIs  HTTP REST?.md",
+    "DevOps/DevOps & Agile Culture/DevOps & Agile Culture.md",
+    "Programação/API Rest",
+    "DevOps/Fundamentos do programa Agile/Fundamentos do programa Agile.md",
+    "DevOps/Fundamentos do programa Agile",
+    "Qualidade de software/Compliance e Quality Assurance/Compliance e Quality Assurance.md",
     "Qualidade de software/Compliance e Quality Assurance/Cap 4 - Elaboração de Testes.md",
+    "Qualidade de software/Compliance e Quality Assurance/livros/Engenharia de Software - Ian Sommerville.pdf",
+    "DevOps/DevOps & Agile Culture",
+    "DevOps",
+    "Qualidade de software/Compliance e Quality Assurance/Cap 3 - Testes de Software.md",
     "Qualidade de software/Compliance e Quality Assurance/Cap 5 - Automação de Testes.md",
     "Qualidade de software/Compliance e Quality Assurance/imgs/Pasted image 20240601022356.png",
     "Qualidade de software/Compliance e Quality Assurance/imgs/Pasted image 20240601022347.png",
     "Qualidade de software/Compliance e Quality Assurance/imgs/Pasted image 20240601021559.png",
     "Qualidade de software/Compliance e Quality Assurance/imgs/Pasted image 20240601021548.png",
-    "Qualidade de software/Compliance e Quality Assurance/Compliance e Quality Assurance.md",
     "Qualidade de software/Compliance e Quality Assurance/imgs/Pasted image 20240531235623.png",
     "Qualidade de software/Compliance e Quality Assurance/imgs/Pasted image 20240601003626.png",
     "Qualidade de software/Compliance e Quality Assurance/imgs/Pasted image 20240601013356.png",

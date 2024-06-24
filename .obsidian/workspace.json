@@ -8,14 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ceb58d48c5d1f689",
+            "id": "15718a5565c976e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Programação/API Rest/02 - Comunicação HTTP.md",
-                "mode": "source",
-                "source": false
+                "file": "DevOps/DevOps & Agile Culture/img/Pasted image 20240604190854.png"
               }
             }
           }
@@ -69,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "02c3aaf7f03e8436",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programação/API Rest/02 - Comunicação HTTP.md",
+                "file": "DevOps/DevOps & Agile Culture/img/Pasted image 20240604190854.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programação/API Rest/02 - Comunicação HTTP.md",
+                "file": "DevOps/DevOps & Agile Culture/img/Pasted image 20240604190854.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programação/API Rest/02 - Comunicação HTTP.md"
+                "file": "DevOps/DevOps & Agile Culture/img/Pasted image 20240604190854.png"
               }
             }
           }
@@ -147,12 +144,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ceb58d48c5d1f689",
+  "active": "f21834aa8247faab",
   "lastOpenFiles": [
-    "Programação/API Rest/API Rest.md",
-    "Programação/API Rest/02 - Comunicação HTTP.md",
-    "Programação/API Rest/01 - 0 que são APIs, APIs HTTP e APIs  HTTP REST?.md",
+    "DevOps/DevOps & Agile Culture/img",
+    "README.md",
+    "Gestão e liderança/Gestão de projetos/img",
+    "Gestão e liderança/Gestão de projetos/Gestão de projetos.md",
+    "Gestão e liderança/Gestão de projetos/Cap 1 - O que é um projeto?.md",
+    "Gestão e liderança/Gestão de projetos/img/Pasted image 20240617001249.png",
+    "Gestão e liderança/Gestão de projetos/img/Pasted image 20240617001058.png",
+    "Gestão e liderança/Gestão de projetos/img/Pasted image 20240617000921.png",
+    "Gestão e liderança",
+    "Gestão e liderança/Gestão de projetos",
+    "Qualidade de software/Compliance e Quality Assurance/Cap 1 - Qualidade o conceito.md",
+    "DevOps/DevOps & Agile Culture/img/Pasted image 20240604190854.png",
     "DevOps/DevOps & Agile Culture/DevOps & Agile Culture.md",
+    "DevOps/DevOps & Agile Culture/Cap 1 - DevOps.md",
+    "Programação/API Rest/02 - Comunicação HTTP.md",
+    "Programação/API Rest/API Rest.md",
+    "Programação/API Rest/01 - 0 que são APIs, APIs HTTP e APIs  HTTP REST?.md",
     "Programação/API Rest",
     "DevOps/Fundamentos do programa Agile/Fundamentos do programa Agile.md",
     "DevOps/Fundamentos do programa Agile",
@@ -168,10 +178,6 @@
     "Qualidade de software/Compliance e Quality Assurance/imgs/Pasted image 20240601021559.png",
     "Qualidade de software/Compliance e Quality Assurance/imgs/Pasted image 20240601021548.png",
     "Qualidade de software/Compliance e Quality Assurance/imgs/Pasted image 20240531235623.png",
-    "Qualidade de software/Compliance e Quality Assurance/imgs/Pasted image 20240601003626.png",
-    "Qualidade de software/Compliance e Quality Assurance/imgs/Pasted image 20240601013356.png",
-    "Qualidade de software/Compliance e Quality Assurance/imgs/Pasted image 20240601015043.png",
-    "Pasted image 20240601013335.png",
-    "Qualidade de software/Compliance e Quality Assurance/imgs/Pasted image 20240601003342.png"
+    "Qualidade de software/Compliance e Quality Assurance/imgs/Pasted image 20240601003626.png"
   ]
 }
